@@ -38,3 +38,6 @@ Ahora estarás en una terminal con prompt "#" porque eres sudo dentro del conten
  [] Fonty subir datos de EMB  
  [] Karina buscar datos control, ejemplo datos cuatro ciénegas MGRAST, NCBI SRA  
  
+ Referencias
+ [Contruir aplicación de python en docker](https://linuxhandbook.com/dockerize-python-apps/)
+ 
