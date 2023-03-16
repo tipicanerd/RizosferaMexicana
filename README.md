@@ -11,7 +11,7 @@ edita el Dockerfile instalando lo qe neccesites.
 `docker build -t rizosfera.`   
 
 3. Prueba tus dependencias entrando al contenedor 
-`docker run -i -t -v rizosfera  /bin/bash`  
+`docker run -i -t -v $(pwd):/home rizosfera  /bin/bash`  
 Ahora estarás en una terminal con prompt "#" porque eres sudo dentro del contenedor.   
 `usuario #`
 (Miguel, si usamos el python mas pequeño, podemos dejarle una terminal? )  
