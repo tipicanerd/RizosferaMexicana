@@ -8,10 +8,10 @@ Primero clona este repositorio localmente
 edita el Dockerfile instalando lo qe neccesites.  
 
 2. Localmente construye tu imagen de docker  
-`docker build -t algun-nombre .`   
+`docker build -t rizofera.`   
 
 3. Prueba tus dependencias entrando al contenedor 
-`docker run -i -t algun-nombre  /bin/bash`  
+`docker run -i -t -v rizosfera  /bin/bash`  
 Ahora estarás en una terminal con prompt "#" porque eres sudo dentro del contenedor.   
 `usuario #`
 (Miguel, si usamos el python mas pequeño, podemos dejarle una terminal? )  
@@ -30,6 +30,10 @@ Ahora estarás en una terminal con prompt "#" porque eres sudo dentro del conten
  Bitácora  
  [Bitácora de trabajo](https://docs.google.com/document/d/1o6B5qE0GtQPsN3JWRyDxnzQjfKWRsn-I8BagbWCK600/edit#heading=h.wojdmcq3lqcs)
  
+### Datos Haxkaton 2019
+#### OTUS_conservados.csv 
+
+
 # Pendientes marzo  
  [x] Todos, instalas docker  
  [x] Miguel sra-toolkit y conda (instalar las librerías)    
