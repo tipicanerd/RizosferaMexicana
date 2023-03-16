@@ -8,7 +8,7 @@ Primero clona este repositorio localmente
 edita el Dockerfile instalando lo qe neccesites.  
 
 2. Localmente construye tu imagen de docker  
-`docker build -t rizofera.`   
+`docker build -t rizosfera.`   
 
 3. Prueba tus dependencias entrando al contenedor 
 `docker run -i -t -v rizosfera  /bin/bash`  
