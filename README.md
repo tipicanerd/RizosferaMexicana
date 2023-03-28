@@ -47,7 +47,8 @@ Contiene 3044 filas y 607 columnas. La selección de columnas se basó en cierto
  [ x ] subir los datos de plantas mexicanas   
  [] Nelly Subir los datos del mundo  , y tabla de Haydee de metadatos   
  [] Fonty subir datos de EMB    
- [] Karina buscar datos control, ejemplo datos cuatro ciénegas MGRAST, NCBI SRA    
+ [x ] Karina buscar datos control, ejemplo datos cuatro ciénegas MGRAST, NCBI SRA  
+ [  ] Pendiente subir su script de qiime al gtithub
  
  Referencias
  [Contruir aplicación de python en docker](https://linuxhandbook.com/dockerize-python-apps/)
