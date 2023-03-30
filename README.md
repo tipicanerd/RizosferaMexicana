@@ -26,16 +26,16 @@ Ahora estarás en una terminal con prompt "#" porque eres sudo dentro del conten
 [Suelos del mundo]()  
  [ ] Cuatro Ciénegas México   
  [ ] Otra planta   
- 
- Bitácora  
- [Bitácora de trabajo](https://docs.google.com/document/d/1o6B5qE0GtQPsN3JWRyDxnzQjfKWRsn-I8BagbWCK600/edit#heading=h.wojdmcq3lqcs)
+ Set de datos 2: [Reto camda2023](https://github.com/aapashkov/camda2023)
  
 ### Datos Haxkaton 2019
 #### OTUS_conservados.csv 
 Contiene 3044 filas y 607 columnas. La selección de columnas se basó en ciertos criterios que pueden modificarse en el futuro. También se agegró la columna *New_Labels* se obtuvo mapeando las coordenadas para tener más información sobre el clima del lugar.
-Set de datos 2: [Reto camda2023](https://github.com/aapashkov/camda2023)
 
-# Pendientes marzo  
+## Bitácora  
+ [Bitácora de trabajo](https://docs.google.com/document/d/1o6B5qE0GtQPsN3JWRyDxnzQjfKWRsn-I8BagbWCK600/edit#heading=h.wojdmcq3lqcs)
+ 
+ ## Pendientes marzo  
  [x] Todos, instalas docker  
  [x] Miguel sra-toolkit y conda (instalar las librerías)    
  [ ] probar kraken-biom en los datos de prueba que están en la carpeta data del repo  
