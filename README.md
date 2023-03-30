@@ -25,8 +25,8 @@ Ahora estarás en una terminal con prompt "#" porque eres sudo dentro del conten
 [Plantas Mexicanas con biom](https://lab.matmor.unam.mx/files)  
 [Suelos del mundo]()  
  [ ] Cuatro Ciénegas México   
- [ ] Otra planta   
- Set de datos 2: [Reto camda2023](https://github.com/aapashkov/camda2023)
+ [ ] Otra planta     
+ Set de datos 2: [Reto camda2023](https://github.com/aapashkov/camda2023)  
  
 ### Datos Haxkaton 2019
 #### OTUS_conservados.csv 
@@ -57,7 +57,7 @@ Contiene 3044 filas y 607 columnas. La selección de columnas se basó en cierto
  
  [Contruir aplicación de python en docker](https://linuxhandbook.com/dockerize-python-apps/)
  
-[ ][Forensic Applications of Microbiomics: A Review](https://www.frontiersin.org/articles/10.3389/fmicb.2020.608101/full)
+[ ][Forensic Applications of Microbiomics: A Review](https://www.frontiersin.org/articles/10.3389/fmicb.2020.608101/full)  
 [ ][Identification of city specific important bacterial signature for the MetaSUB CAMDA challenge microbiome data](https://link.springer.com/article/10.1186/s13062-019-0243-z)    
 [ ][Editorial: Critical assessment of massive data analysis (CAMDA) annual conference 2021](https://www.frontiersin.org/articles/10.3389/fgene.2023.1154398/full)     
 [ ][Unraveling city-specific signature and identifying sample origin locations for the data from CAMDA MetaSUB challenge](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7780616/)      
