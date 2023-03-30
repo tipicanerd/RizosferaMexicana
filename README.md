@@ -33,7 +33,7 @@ Ahora estarás en una terminal con prompt "#" porque eres sudo dentro del conten
 ### Datos Haxkaton 2019
 #### OTUS_conservados.csv 
 Contiene 3044 filas y 607 columnas. La selección de columnas se basó en ciertos criterios que pueden modificarse en el futuro. También se agegró la columna *New_Labels* se obtuvo mapeando las coordenadas para tener más información sobre el clima del lugar.
-
+Set de datos 2: [Reto camda2023](https://github.com/aapashkov/camda2023)
 
 # Pendientes marzo  
  [x] Todos, instalas docker  
