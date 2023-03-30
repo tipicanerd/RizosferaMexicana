@@ -50,7 +50,11 @@ Contiene 3044 filas y 607 columnas. La selección de columnas se basó en cierto
  [x ] Karina buscar datos control, ejemplo datos cuatro ciénegas MGRAST, NCBI SRA  
  [  ] Pendiente subir su script de qiime al gtithub
  
+ ## Lecturas
+ [Registro de lecturas](https://docs.google.com/spreadsheets/d/1YBW80z4DLh1hjOdCe4x4eETMSUuCAl26F5H6xf-ccCE/edit?usp=sharing)
+ 
  ## Referencias
+ 
  [Contruir aplicación de python en docker](https://linuxhandbook.com/dockerize-python-apps/)
  
 [ ][Forensic Applications of Microbiomics: A Review](https://www.frontiersin.org/articles/10.3389/fmicb.2020.608101/full)
