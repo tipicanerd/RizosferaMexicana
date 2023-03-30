@@ -53,3 +53,4 @@ Contiene 3044 filas y 607 columnas. La selección de columnas se basó en cierto
  Referencias
  [Contruir aplicación de python en docker](https://linuxhandbook.com/dockerize-python-apps/)
  
+[Forensic Applications of Microbiomics: A Review](https://www.frontiersin.org/articles/10.3389/fmicb.2020.608101/full)
