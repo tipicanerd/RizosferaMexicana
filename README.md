@@ -76,3 +76,8 @@ Contiene 3044 filas y 607 columnas. La selección de columnas se basó en cierto
 [][Systematic evaluation of supervised machine learning for sample origin prediction using metagenomic sequencing data](https://pubmed.ncbi.nlm.nih.gov/33302990/)  
 [][MetaBinG2: a fast and accurate metagenomic sequence classification system for samples with many unknown organisms](https://pubmed.ncbi.nlm.nih.gov/30134953/)  
 [][Assessment of urban microbiome assemblies with the help of targeted in silico gold standards](https://pubmed.ncbi.nlm.nih.gov/30621760/)  
+[][Metagenomics Analyses: A Qualitative Assessment Tool for Applications in Forensic Sciences](https://link.springer.com/chapter/10.1007/978-981-15-6529-8_5)  
+[][Forensic Applications of Microbiomics: A Review](https://www.frontiersin.org/articles/10.3389/fmicb.2020.608101/full)  
+[][Application of Microbiome in Forensics](https://www.sciencedirect.com/science/article/pii/S1672022922000961)  
+[][Environmental metagenomics in urban environments and development of forensic inference](https://www.kcl.ac.uk/research/environmental-metagenomics-in-urban-environments-and-development-of-forensic-inference)  
+[][Origin Sample Prediction and Spatial Modeling of Antimicrobial Resistance in Metagenomic Sequencing Data](https://pubmed.ncbi.nlm.nih.gov/33763122/)  
