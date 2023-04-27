@@ -22,11 +22,11 @@ Ahora estarás en una terminal con prompt "#" porque eres sudo dentro del conten
 5. Actualizaremos los jueves la "imagen oficial" de Docker del equipo en el dockerhub  
 
 ## Datos
-[Plantas Mexicanas con biom](https://lab.matmor.unam.mx/files)  
+[Plantas Mexicanas con biom](https://lab.matmor.unam.mx/files) Ordenar en una sola tabla.  
 [Suelos del mundo]()  
  [ ] Cuatro Ciénegas México   
  [ ] Otra planta     
- Set de datos 2: [Reto camda2023](https://github.com/aapashkov/camda2023)  
+ Set de datos 2: [Reto camda2023](https://github.com/aapashkov/camda2023)  Faltan etiquetas ciudades  
  
 ### Datos Haxkaton 2019
 #### OTUS_conservados.csv 
