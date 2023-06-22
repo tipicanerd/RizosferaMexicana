@@ -22,10 +22,10 @@ Ahora estarás en una terminal con prompt "#" porque eres sudo dentro del conten
 5. Actualizaremos los jueves la "imagen oficial" de Docker del equipo en el dockerhub  
 
 ## Datos
-[Plantas Mexicanas con biom](https://lab.matmor.unam.mx/files) Ordenar en una sola tabla.  
-Alnitak /files/metamex/raw_files/Agaves
-[Rhyzosphere metadata table](https://docs.google.com/spreadsheets/d/1f8l-wfMqngcaqajeybX2celb7g9wNLd3-Ix8tjNqM3Q/edit#gid=928779009)
-[Suelos del mundo]()  
+[Plantas Mexicanas con biom](https://lab.matmor.unam.mx/files) Ordenar en una sola tabla.    
+Alnitak /files/metamex/raw_files/Agaves  
+[Rhyzosphere metadata table](https://docs.google.com/spreadsheets/d/1f8l-wfMqngcaqajeybX2celb7g9wNLd3-Ix8tjNqM3Q/edit#gid=928779009)  
+[Suelos del mundo]()    
  [ ] Cuatro Ciénegas México   
  [ ] Otra planta     
  Set de datos 2: [Reto camda2023](https://github.com/aapashkov/camda2023)  Faltan etiquetas ciudades  
