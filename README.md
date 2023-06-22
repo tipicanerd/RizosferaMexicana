@@ -24,6 +24,7 @@ Ahora estarás en una terminal con prompt "#" porque eres sudo dentro del conten
 ## Datos
 [Plantas Mexicanas con biom](https://lab.matmor.unam.mx/files) Ordenar en una sola tabla.  
 Alnitak /files/metamex/raw_files/Agaves
+[Rhyzosphere metadata table](https://docs.google.com/spreadsheets/d/1f8l-wfMqngcaqajeybX2celb7g9wNLd3-Ix8tjNqM3Q/edit#gid=928779009)
 [Suelos del mundo]()  
  [ ] Cuatro Ciénegas México   
  [ ] Otra planta     
