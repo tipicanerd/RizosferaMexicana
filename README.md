@@ -36,7 +36,13 @@ Contiene 3044 filas y 607 columnas. La selección de columnas se basó en cierto
 
 ## Bitácora  
  [Bitácora de trabajo](https://docs.google.com/document/d/1o6B5qE0GtQPsN3JWRyDxnzQjfKWRsn-I8BagbWCK600/edit#heading=h.wojdmcq3lqcs)
- 
+ ## Pendientes septiembre
+[ ] Karina Probar Docker Mifaser https://hub.docker.com/r/bromberglab/mifaser  
+[Script Anton](https://github.com/ccm-bioinfo/cambda2023/blob/main/04_functional/src/annotators/mifaser.sh)  
+[Git Mifaser](https://bitbucket.org/bromberglab/mifaser/src/master/)  
+[ ]  Shaday Haydee Rafa Probar docker fasterq-dump  y subir datos  
+[Git de Diego de datos](https://github.com/Bedxxe/clavibacter)  
+[ ]  Si fallamos Miguel nos ayuda sig semana  
  ## Pendientes marzo  
  [x] Todos, instalas docker  
  [x] Miguel sra-toolkit y conda (instalar las librerías)    
